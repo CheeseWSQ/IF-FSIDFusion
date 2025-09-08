@@ -64,7 +64,7 @@ The testing results will be printed in the terminal.
 ### 🏊 Training
 
 **1. Data Preparation**
-Download the MSRS dataset from [this link](https://github.com/Linfeng-Tang/MSRS) and place it in the folder ``'./dataprocessing/MSRS_train/'``.
+Download the MSRS dataset from [this link](https://github.com/Linfeng-Tang/MSRS) and place it in the folder ``'./MSRS_train/'``.
 
 **2. Pre-Processing**
 
@@ -128,5 +128,6 @@ MM detection
 <img src="Images//Quanti-MMDet.png" width="100%" align=center />
 
 MM segmentation
+
 
 <img src="Images//Quanti-MMSeg.png" width="100%" align=center />
