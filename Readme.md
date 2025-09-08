@@ -92,9 +92,11 @@ and the trained model is available in ``'./models/'``.
 
 ### Qualitative fusion results.
 Infrared-Visible Image Fusion
+
 <img src="Images//MSRS-Out.png" width="100%" align=center />
 
 Medical Image Fusion
+
 <img src="Images//MIF-Out.png" width="60%" align=center />
 
 MM detection
@@ -131,3 +133,4 @@ MM segmentation
 
 
 <img src="Images//Quanti-MMSeg.png" width="100%" align=center />
+
